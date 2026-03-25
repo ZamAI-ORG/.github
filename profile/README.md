@@ -7,22 +7,15 @@
 
 ---
 
-## Flagship
+## Projects
 
-### Zeerak
-**Zeerak is the flagship AI assistant by ZamAI.**  
-A public product identity with a private-by-choice implementation.
-
-Repo: https://github.com/ZamAI-ORG/zeerak
-
----
-
-## Education & Culture
-
-### Cultural Hub
-A public-facing platform for Pashto and Afghan cultural + learning experiences.
-
-Repo: https://github.com/ZamAI-ORG/cultural-hub
+| Category | Project | What it is | Link |
+|---|---|---|---|
+| Flagship | **Zeerak** | The flagship AI assistant by ZamAI. Public identity, private-by-choice implementation. | https://github.com/ZamAI-ORG/zeerak |
+| Education & Culture | **Cultural Hub** | Public-facing platform for Pashto and Afghan cultural + learning experiences. | https://github.com/ZamAI-ORG/cultural-hub |
+| Platform | **ZamAI Web (GitHub Pages)** | The public website and ecosystem hub (serves zamai.dev). | https://github.com/ZamAI-ORG/zamai.github.io |
+| Labs | **Pashto Processing** | Main repository for processing Pashto texts. | https://github.com/ZamAI-ORG/pashto-processing |
+| Labs | **Pashto Datasets** | Datasets and notebooks for Pashto language work. | https://github.com/ZamAI-ORG/pashto-datasets |
 
 ---
 
