@@ -1,48 +1,96 @@
 # ZamAI
 
-**ZamAI is an AI organization building a growing ecosystem of intelligent products, tools, and digital experiences — home of Zeerak.**
+Welcome to the official GitHub profile of **ZamAI**.
 
-- Website: https://zamai.dev
-- GitHub: https://github.com/ZamAI-ORG
+We build intelligent, practical, and scalable solutions designed to solve real-world problems through modern software and AI-driven innovation.
 
----
+## About ZamAI
 
-## Projects
+ZamAI is an organization focused on creating high-quality technology products, tools, and research-driven solutions. Our work combines software engineering, artificial intelligence, and thoughtful product design to deliver systems that are useful, reliable, and forward-looking.
 
-| Category | Project | What it is | Link |
-|---|---|---|---|
-| Flagship | **Zeerak** | The flagship AI assistant by ZamAI. Public identity, private-by-choice implementation. | https://github.com/ZamAI-ORG/zeerak |
-| Education & Culture | **Cultural Hub** | Public-facing platform for Pashto and Afghan cultural + learning experiences. | https://github.com/ZamAI-ORG/cultural-hub |
-| Platform | **ZamAI Web (GitHub Pages)** | The public website and ecosystem hub (serves zamai.dev). | https://github.com/ZamAI-ORG/zamai.github.io |
-| Labs | **Pashto Processing** | Main repository for processing Pashto texts. | https://github.com/ZamAI-ORG/pashto-processing |
-| Labs | **Pashto Datasets** | Datasets and notebooks for Pashto language work. | https://github.com/ZamAI-ORG/pashto-datasets |
+We believe in:
+- Building with purpose
+- Shipping with quality
+- Collaborating openly
+- Improving continuously
 
----
+## What We Do
 
-## ZamAI Labs
-ZamAI Labs is where we publish foundational work that supports the ecosystem — including **Pashto** language resources, datasets, processing pipelines, and model work.
+Our organization may include work in areas such as:
+- Artificial Intelligence and Machine Learning
+- Software Platforms and APIs
+- Automation Tools
+- Developer Infrastructure
+- Research and Prototyping
+- Data-Driven Applications
 
-**Explore Labs:**
-- https://github.com/ZamAI-ORG/pashto-processing
-- https://github.com/ZamAI-ORG/pashto-datasets
-- https://github.com/ZamAI-ORG/zamai-models
-- https://github.com/ZamAI-ORG/zamai-training-pipelines
-- https://github.com/ZamAI-ORG/training-spaces
-- https://github.com/ZamAI-ORG/phi3-mini-pashto-lora
-- https://github.com/ZamAI-ORG/mt5-pashto
-- https://github.com/ZamAI-ORG/zamai-pashto-template
+## Mission
 
----
+Our mission is to create impactful digital solutions that help individuals, teams, and organizations work smarter, faster, and more effectively.
 
-## Ecosystem Strategy
-- **One brand:** ZamAI
-- **One flagship assistant:** Zeerak
-- **One public home:** https://zamai.dev
-- **Positioning:** **Zeerak by ZamAI**
+## Vision
 
----
+We aim to contribute to a future where intelligent systems are accessible, trustworthy, and built to empower people.
+
+## Core Values
+
+- **Innovation** — We embrace new ideas and evolving technologies.
+- **Quality** — We care deeply about maintainable, reliable, and well-crafted systems.
+- **Collaboration** — Great products are built by strong teams and open knowledge-sharing.
+- **Integrity** — We value honesty, responsibility, and trust in everything we build.
+- **Impact** — We focus on meaningful outcomes, not just technical novelty.
+
+## Our GitHub Presence
+
+This GitHub organization is where we:
+- Host open-source and internal projects
+- Share experiments and reusable tools
+- Maintain repositories for applications, libraries, and infrastructure
+- Collaborate on ideas, issues, and improvements
+
+## Featured Areas
+
+Depending on the organization’s active work, repositories may cover:
+- AI applications
+- Backend systems
+- Frontend products
+- Cloud infrastructure
+- Developer tooling
+- Experimental prototypes
+
+## Collaboration
+
+We value collaboration and continuous improvement. If you are exploring our repositories, you may find:
+- Active development projects
+- Documentation and technical references
+- Reusable components and utilities
+- Opportunities for contribution and feedback
+
+## Contributing
+
+We welcome constructive collaboration. Contribution processes may vary by repository, so please review each project’s documentation for:
+- Setup instructions
+- Coding standards
+- Branching and pull request workflows
+- Issue reporting guidelines
+
+## Standards
+
+We aim to maintain:
+- Clear documentation
+- Consistent engineering practices
+- Readable and maintainable code
+- Responsible use of AI and automation
+- Secure and scalable development practices
+
+## Official Links
+
+- **GitHub Organization:** [ZamAI-ORG](https://github.com/ZamAI-ORG)
 
 ## Contact
-- Email: hello@zamai.dev
 
-© 2026 ZamAI. Home of Zeerak.
+For updates, collaboration, or project visibility, please follow our work here on GitHub.
+
+## Closing
+
+Thank you for visiting **ZamAI**. We are committed to building technology that is practical, intelligent, and meaningful.
