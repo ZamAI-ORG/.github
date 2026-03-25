@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/zamai-banner.png" alt="ZamAI Banner" width="100%" />
+<img src="assets/logo.svg" alt="ZamAI Banner" width="100%" />
 
 <br />
 <br />
