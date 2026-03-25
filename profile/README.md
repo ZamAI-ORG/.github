@@ -1,5 +1,8 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/logo.svg" alt="ZamAI logo" width="110" height="110" />
+</p>
 
 <br />
 <br />
