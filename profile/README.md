@@ -51,14 +51,7 @@ We focus on | زموږ تمرکز:
 دغه پروژې د ZamAI اوسني او راتلونکې محصولات پیاوړي کوي، او د ژبنۍ ټکنالوژۍ او څېړنیز بنسټ پرمختګ ته وده ورکوي.
 
 ### Explore Labs | لابراتوارونه وپلټئ
-- [pashto-processing](https://github.com/ZamAI-ORG/pashto-processing)  
-- [pashto-datasets](https://github.com/ZamAI-ORG/pashto-datasets)  
-- [zamai-models](https://github.com/ZamAI-ORG/zamai-models)  
-- [zamai-training-pipelines](https://github.com/ZamAI-ORG/zamai-training-pipelines)  
-- [training-spaces](https://github.com/ZamAI-ORG/training-spaces)  
-- [phi3-mini-pashto-lora](https://github.com/ZamAI-ORG/phi3-mini-pashto-lora)  
-- [mt5-pashto](https://github.com/ZamAI-ORG/mt5-pashto)  
-- [zamai-pashto-template](https://github.com/ZamAI-ORG/zamai-pashto-template)  
+- Explore Labs: https://github.com/ZamAI-ORG/labs
 
 ---
 
