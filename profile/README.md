@@ -6,7 +6,7 @@
 
   # ZamAI
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=2200&color=0A66C2&center=true&vCenter=true&width=1000&lines=Building+intelligent+products%2C+tools%2C+and+digital+experiences;هوښیار+محصولات%2C+وسایل%2C+او+ډیجیټلي+تجربې+جوړوو;Home+of+Zeerak;د+Zeerak+کور;Advancing+AI%2C+language+technology%2C+and+real-world+impact;د+مصنوعي+هوښیارۍ%2C+ژبنۍ+ټکنالوژۍ%2C+او+ریښتینې+اغېزې+په+لور" alt="Typing animation" />
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=2200&color=0A66C2&center=true&vCenter=true&width=1000&lines=Building+intelligent+products%2C+tools%2C+and+digital+experiences;هوښیار+محصولات%2C+وسایل%2C+او+ډیجیټلي+تجربې+جوړوو;Home+of+Zeerak;د+Zeerak+کور;Advancing+AI%2C+language+technology%2C+and+real-world+impact;د+مصنوعي+هوښیارۍ%2C+ژبنۍ+ټکنالوژۍ%2C+او+ریښتینې+اغېزې+په+لور)
 
 ---
 
@@ -14,7 +14,6 @@
 **ZamAI د مصنوعي هوښیارۍ اداره ده چې د هوښیارو محصولاتو، وسایلو، او ډیجیټلي تجربو مخ پر ودې ایکوسیستم جوړوي — د Zeerak کور.**
 
 </div>
-
 
 
 ---
