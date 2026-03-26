@@ -6,24 +6,15 @@
 
   # ZamAI
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=2200&color=0A66C2&center=true&vCenter=true&width=1000&lines=Building+intelligent+products%2C+tools%2C+and+digital+experiences;هوښیار+محصولات%2C+وسایل%2C+او+ډیجیټلي+تجربې+جوړوو;Home+of+Zeerak;د+Zeerak+کور;Advancing+AI%2C+language+technology%2C+and+real-world+impact;د+مصنوعي+هوښیارۍ%2C+ژبنۍ+ټکنالوژۍ%2C+او+ریښتینې+اغېزې+په+لور" alt="Typing SVG"/>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=2200&color=0A66C2&center=true&vCenter=true&width=1000&lines=Building+intelligent+products%2C+tools%2C+and+digital+experiences;هوښیار+محصولات%2C+وسایل%2C+او+ډیجیټلي+تجربې+جوړوو;Home+of+Zeerak;د+Zeerak+کور;Advancing+AI%2C+language+technology%2C+and+real-world+impact;د+مصنوعي+هوښیارۍ%2C+ژبنۍ+ټکنالوژۍ%2C+او+ریښتینې+اغېزې+په+لور" alt="Typing animation" />
 
 ---
 
 **ZamAI is an AI organization building a growing ecosystem of intelligent products, tools, and digital experiences — home of Zeerak.**  
 **ZamAI د مصنوعي هوښیارۍ اداره ده چې د هوښیارو محصولاتو، وسایلو، او ډیجیټلي تجربو مخ پر ودې ایکوسیستم جوړوي — د Zeerak کور.**
 
----
-
-<p>
-  <a href="https://zamai.dev"><img src="https://img.shields.io/badge/Website-zamai.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/ZamAI-ORG"><img src="https://img.shields.io/badge/GitHub-ZamAI--ORG-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:hello@zamai.dev"><img src="https://img.shields.io/badge/Email-hello%40zamai.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 </div>
+
 
 
 ---
