@@ -35,13 +35,9 @@ We focus on | زموږ تمرکز:
 
 ## Projects | پروژې
 
-| Category | Project | Description | Link |
-|---|---|---|---|
-| Flagship | **Zeerak** | The flagship AI assistant by ZamAI. Public identity, private-by-choice implementation. | [Repository](https://github.com/ZamAI-ORG/zeerak) |
-| Education & Culture | **Cultural Hub** | Platform for Pashto and Afghan cultural learning experiences. | [Repository](https://github.com/ZamAI-ORG/cultural-hub) |
-| Platform | **ZamAI Web** | Public website and ecosystem hub serving **zamai.dev**. | [Repository](https://github.com/ZamAI-ORG/zamai.github.io) |
-| Labs | **Pashto Processing** | Core repository for Pashto text pipelines. | [Repository](https://github.com/ZamAI-ORG/pashto-processing) |
-| Labs | **Pashto Datasets** | Datasets and notebooks supporting Pashto language work. | [Repository](https://github.com/ZamAI-ORG/pashto-datasets) |
+- **Products Directory:** [github.com/ZamAI-ORG/products](https://github.com/ZamAI-ORG/products)
+- **Flagship (Zeerak):** [github.com/ZamAI-ORG/zeerak](https://github.com/ZamAI-ORG/zeerak)
+- **Labs:** [github.com/ZamAI-ORG/labs](https://github.com/ZamAI-ORG/labs)
 
 ---
 
